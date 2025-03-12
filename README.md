@@ -21,6 +21,7 @@ uv init --script example.py --python 3.12
 # ]
 # ///
 
+
 import requests
 from rich.pretty import pprint
 
