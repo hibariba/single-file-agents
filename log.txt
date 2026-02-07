@@ -1,0 +1,1 @@
+ChatCompletionMessageToolCall(id='call_NP8RzvuD5mKjvciUEJIdxOXn', function=Function(arguments='{"num1":3,"num2":11,"operator":"*"}', name='CalculatorArgs'), type='function')
