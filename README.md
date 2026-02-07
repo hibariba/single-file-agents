@@ -1,4 +1,4 @@
-# Singel file agents
+# Single file agents
 > using python scripts with `uv run` to execute self-contained single file AI agents.
 
 ## Development
@@ -10,7 +10,7 @@ uv init --script example.py --python 3.12
 
 [Declaring script dependencies](https://docs.astral.sh/uv/guides/scripts/#declaring-script-dependencies)
 ```shell
-uv init --script example.py --python 3.12
+uv add --script example.py 'requests<3' 'rich'
 ```
 
 ```python example.py

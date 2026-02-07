@@ -1,3 +1,5 @@
+**/.DS_Store
+.aider*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +174,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+log.json
+log.txt
+/data
+uv.lock
